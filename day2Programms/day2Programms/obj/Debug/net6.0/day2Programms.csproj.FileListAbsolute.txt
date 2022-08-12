@@ -1,0 +1,15 @@
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.csproj.AssemblyReference.cache
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.AssemblyInfoInputs.cache
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.AssemblyInfo.cs
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.csproj.CoreCompileInputs.cache
+E:\User\c#\day2Programms\day2Programms\bin\Debug\net6.0\day2Programms.exe
+E:\User\c#\day2Programms\day2Programms\bin\Debug\net6.0\day2Programms.deps.json
+E:\User\c#\day2Programms\day2Programms\bin\Debug\net6.0\day2Programms.runtimeconfig.json
+E:\User\c#\day2Programms\day2Programms\bin\Debug\net6.0\day2Programms.dll
+E:\User\c#\day2Programms\day2Programms\bin\Debug\net6.0\day2Programms.pdb
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.dll
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\refint\day2Programms.dll
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.pdb
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\day2Programms.genruntimeconfig.cache
+E:\User\c#\day2Programms\day2Programms\obj\Debug\net6.0\ref\day2Programms.dll

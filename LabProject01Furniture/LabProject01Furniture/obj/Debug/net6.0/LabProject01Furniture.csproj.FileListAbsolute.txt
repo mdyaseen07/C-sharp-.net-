@@ -1,0 +1,15 @@
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\bin\Debug\net6.0\LabProject01Furniture.exe
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\bin\Debug\net6.0\LabProject01Furniture.deps.json
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\bin\Debug\net6.0\LabProject01Furniture.runtimeconfig.json
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\bin\Debug\net6.0\LabProject01Furniture.dll
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\bin\Debug\net6.0\LabProject01Furniture.pdb
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.csproj.AssemblyReference.cache
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.AssemblyInfoInputs.cache
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.AssemblyInfo.cs
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.csproj.CoreCompileInputs.cache
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.dll
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\refint\LabProject01Furniture.dll
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.pdb
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\LabProject01Furniture.genruntimeconfig.cache
+E:\User\c#\LabProject01Furniture\LabProject01Furniture\obj\Debug\net6.0\ref\LabProject01Furniture.dll
